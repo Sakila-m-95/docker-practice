@@ -1,0 +1,3 @@
+FROM almalinux:8
+LABEL NAME=SAKILA \
+      PLACE=KARUR
