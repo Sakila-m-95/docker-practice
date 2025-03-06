@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=SAKILA \
+    AGE=29 \
+    ADDRESS=KARUR
